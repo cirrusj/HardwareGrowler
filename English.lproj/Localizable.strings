@@ -1,0 +1,165 @@
+﻿/* Type of IP address */
+"6to4 relay" = "6to4 relay";
+
+/* No comment provided by engineer. */
+"AirPort Connected" = "AirPort Connected";
+
+/* No comment provided by engineer. */
+"Airport connected" = "Airport connected";
+
+/* No comment provided by engineer. */
+"Airport disconnected" = "Airport disconnected";
+
+/* No comment provided by engineer. */
+"AirPort Disconnected" = "AirPort Disconnected";
+
+/* No comment provided by engineer. */
+"Battery charging..." = "Battery charging...";
+
+/* Type of IP address */
+"Benchmark" = "Benchmark";
+
+/* No comment provided by engineer. */
+"Bluetooth Connection" = "Bluetooth Connection";
+
+/* No comment provided by engineer. */
+"Bluetooth Device Connected" = "Bluetooth Device Connected";
+
+/* No comment provided by engineer. */
+"Bluetooth Device Disconnected" = "Bluetooth Device Disconnected";
+
+/* No comment provided by engineer. */
+"Bluetooth Disconnection" = "Bluetooth Disconnection";
+
+/* No comment provided by engineer. */
+"Current charge: %d%%" = "Current charge: %d%%";
+
+/* No comment provided by engineer. */
+"Ethernet activated" = "Ethernet activated";
+
+/* No comment provided by engineer. */
+"Ethernet deactivated" = "Ethernet deactivated";
+
+/* No comment provided by engineer. */
+"FireWire Connection" = "FireWire Connection";
+
+/* No comment provided by engineer. */
+"FireWire Device Connected" = "FireWire Device Connected";
+
+/* No comment provided by engineer. */
+"FireWire Device Disconnected" = "FireWire Device Disconnected";
+
+/* No comment provided by engineer. */
+"FireWire Disconnection" = "FireWire Disconnection";
+
+/* No comment provided by engineer. */
+"Interface:\ten0" = "Interface:\ten0";
+
+/* The %@ will be replaced by a description of the Ethernet media such as '100BT/full-duplex' */
+"Interface:\ten0\nMedia:\t%@" = "Interface:\ten0\nMedia:\t%@";
+
+/* No comment provided by engineer. */
+"IP Acquired" = "IP Acquired";
+
+/* No comment provided by engineer. */
+"IP address acquired" = "IP address acquired";
+
+/* No comment provided by engineer. */
+"IP address released" = "IP address released";
+
+/* No comment provided by engineer. */
+"IP Released" = "IP Released";
+
+/* No comment provided by engineer. */
+"Joined network.\nSSID:\t\t%@\nBSSID:\t%@" = "Joined network.\nSSID:\t\t%1$@\nBSSID:\t%2$@";
+
+/* No comment provided by engineer. */
+"Left network %@." = "Left network %@.";
+
+/* Type of IP address */
+"Link-local" = "Link-local";
+
+/* Type of IP address */
+"Loopback" = "Loopback";
+
+/* No comment provided by engineer. */
+"Network Link Down" = "Network Link Down";
+
+/* No comment provided by engineer. */
+"Network Link Up" = "Network Link Up";
+
+/* No comment provided by engineer. */
+"New primary IP: %@ (%@)" = "New primary IP: %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"No IP address now" = "No IP address now";
+
+/* No comment provided by engineer. */
+"On A/C power" = "On A/C power";
+
+/* No comment provided by engineer. */
+"On battery power" = "On battery power";
+
+/* No comment provided by engineer. */
+"On UPS power" = "On UPS power";
+
+/* Type of IP address */
+"Private" = "Private";
+
+/* Type of IP address */
+"Public" = "Public";
+
+/* Type of IP address */
+"Reserved" = "Reserved";
+
+/* No comment provided by engineer. */
+"Switched to A/C Power" = "Switched to A/C Power";
+
+/* No comment provided by engineer. */
+"Switched to Battery Power" = "Switched to Battery Power";
+
+/* No comment provided by engineer. */
+"Switched to UPS Power" = "Switched to UPS Power";
+
+/* No comment provided by engineer. */
+"Sync finished" = "Sync finished";
+
+/* No comment provided by engineer. */
+"Sync started" = "Sync started";
+
+/* Type of IP address */
+"Test" = "Test";
+
+/* No comment provided by engineer. */
+"Time remaining: %i minutes" = "Time remaining: %i minutes";
+
+/* No comment provided by engineer. */
+"Time to charge: %i minutes" = "Time to charge: %i minutes";
+
+/* No comment provided by engineer. */
+"Unnamed FireWire Device" = "Unnamed FireWire Device";
+
+/* No comment provided by engineer. */
+"USB 2.0 Bus" = "USB 2.0 Bus";
+
+/* No comment provided by engineer. */
+"USB Bus" = "USB Bus";
+
+/* No comment provided by engineer. */
+"USB Connection" = "USB Connection";
+
+/* No comment provided by engineer. */
+"USB Device Connected" = "USB Device Connected";
+
+/* No comment provided by engineer. */
+"USB Device Disconnected" = "USB Device Disconnected";
+
+/* No comment provided by engineer. */
+"USB Disconnection" = "USB Disconnection";
+
+/* No comment provided by engineer. */
+"Volume Mounted" = "Volume Mounted";
+
+/* No comment provided by engineer. */
+"Volume Unmounted" = "Volume Unmounted";
+
